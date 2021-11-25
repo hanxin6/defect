@@ -21,7 +21,7 @@
 # Test
 <div align="center">
     <a>
-        <img src="./readme_img/show.png" width="200" height="200"/>
+        <img src="./11.10.jpg" width="200" height="200"/>
     </a>
 </div>
 
