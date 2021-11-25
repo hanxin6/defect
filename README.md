@@ -5,19 +5,19 @@
 <div align="center">图一：白色亮点和黑色暗斑标注</div>
 <div align="center">
     <a>
-        <img src="http://10.60.120.120:3000/wangchongzhi/Defect_Detection/src/raw/master/readme_img/1.png" width="100%"/>
+        <img src="1.jpg" width="100%"/>
     </a>
 </div>
 
 <div align="center">
     <a>
-        <img src="http://10.60.120.120:3000/wangchongzhi/Defect_Detection/raw/branch/master/readme_img/1.png" width="5%"/>
+        <img src="1.jpg" width="5%"/>
     </a>
 </div>
 
 
 # Test
-![showrr](./readme_img/0.jpg)
+![showrr](./1.jpg)
 # Test
 <div align="center">
     <a>
